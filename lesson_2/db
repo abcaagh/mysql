@@ -1,4 +1,4 @@
-2) Создайте базу данных example, разместите в ней таблицу users, состоящую из двух столбцов, числового id и строкового name.
+# 2) Создайте базу данных example, разместите в ней таблицу users, состоящую из двух столбцов, числового id и строкового name.
 
 2. create database example;
 2.1. create table users (id int(10) serial primary key, name varchar(255));
